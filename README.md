@@ -25,6 +25,7 @@ simulate_sms(set_area, pop_size, steps):
 Simulate the reach of sms warnings among a population. The function is based on cellphone ownership, and a 16 h per day active time of use.
 
 Parameters
+
 set_area: Choose an area for your simulation. Possible choises are 'Finland', 'Helsinki', 'Tampere', 'Kajaani' and 'Inari'.
 
 pop_size: The population size, should be an integer. Due to rounding errors the actual population in the simulation might differ a bit from this parameter.
