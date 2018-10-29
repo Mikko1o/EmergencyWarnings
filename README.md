@@ -8,9 +8,9 @@ This library provides functions for simulting the reach of emergency warnings in
 How to use:
 1. Download all the files
 2. Import project in jupyter and open simulation1.
-3. Modify simulation functions with parameters: 
+3. Modify simulation functions with your parameters as explained below.
  
-# Functions:
+# Functions
 simulate_radio(set_area, pop_size, steps) #Simulates the reach of radio among a population based on average minutes listened  per day.
 
 simulate_tv(set_area, pop_size, steps) #Simulates the reach of television among a population based on average minutes watched per day.
