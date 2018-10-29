@@ -3,7 +3,7 @@ Course project for Introduction to Data Science 2018
 
 # User instructions
 
-This library provides functions for simulting the reach of emergency warnings in Finland. The functions require the csv files found in the repository. The library depends on numpy, pandas and matplotlib.
+This library provides functions for simulting the reach of emergency warnings in Finland. The functions require the csv files found in the repository. The library depends on numpy, pandas and matplotlib. In the folder Results there are plots of simulation results for different media and different areas.
 
 How to use:
 download all the files
