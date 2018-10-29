@@ -30,4 +30,4 @@ set_area: Choose an area for your simulation. Possible choises are 'Finland', 'H
 
 pop_size: The population size, should be an integer. Due to rounding errors the actual population in the simulation might differ a bit from this parameter.
 
-steps: Choose a number of simulation steps. For radio and television this means number of different broadcasts of the warning. The interpretation is a different with sms, the different steps represent time intervals for checking cellphone.
+steps: Choose a number of simulation steps. For radio and television this means number of different broadcasts of the warning. The interpretation is different with sms, the different steps represent time intervals for checking cellphone.
